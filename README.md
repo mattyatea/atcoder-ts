@@ -34,8 +34,8 @@ npm install
 # 基本コマンド
 pnpm scrape https://atcoder.jp/contests/abc001
 
-# ショートカット版（sも使用可能）
-pnpm s https://atcoder.jp/contests/abc001
+# ショートカット版（scも使用可能）
+pnpm sc https://atcoder.jp/contests/abc001
 ```
 
 **実行すると以下のような構造で保存されます:**
@@ -266,8 +266,8 @@ main(input);
 
 ```bash
 # スクレイピング
-pnpm s https://atcoder.jp/contests/abc370
-pnpm s https://atcoder.jp/contests/arc180
+pnpm sc https://atcoder.jp/contests/abc370
+pnpm sc https://atcoder.jp/contests/arc180
 
 # テスト実行（推奨: abc001/a 形式）
 pnpm t abc370/a

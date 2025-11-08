@@ -9,7 +9,7 @@
     "test": "ts-node src/test-runner.ts",
     "t": "ts-node src/test-runner.ts",
     "scrape": "ts-node src/scraper.ts",
-    "s": "ts-node src/scraper.ts"
+    "sc": "ts-node src/scraper.ts"
   },
   "dependencies": {
     "axios": "^1.13.2",
