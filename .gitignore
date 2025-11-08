@@ -1,0 +1,21 @@
+/tmp
+/out-tsc
+/dist
+
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/.pnp
+.pnp.js
+
+.vscode/*
+.idea
+
+# AtCoder
+*.js
+!jest.config.js
+*.d.ts
+.DS_Store
+/problems
